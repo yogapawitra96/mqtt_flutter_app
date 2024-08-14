@@ -44,7 +44,7 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text('MQTT Data Display'),
+          title: Text('MQTT Data Display 1'),
         ),
         body: Center(
           child: Column(
